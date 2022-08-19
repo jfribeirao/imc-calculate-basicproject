@@ -1,0 +1,21 @@
+body {
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightgray;
+}
+
+#paragraph-result {
+  margin-top: 50px;
+}
+
+input {
+  width: 200px;
+  margin-top: 5px;
+  height: 25px;
+  text-align-last: center;
+  font-size: medium;
+}
+
+h1 {
+  text-align-last: center;
+}
